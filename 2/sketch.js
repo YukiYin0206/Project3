@@ -1,0 +1,25 @@
+function setup(){
+    createCanvas(1000,1000)
+    background(221,210,59)
+    noStroke()
+    fill(170,160,66)
+
+    ellipse(100,100,100,100)
+    ellipse(200,200,125,125)
+    ellipse(300,300,150,150)
+    ellipse(400,400,175,175)
+    ellipse(500,500,200,200)
+    ellipse(600,600,175,175)
+    ellipse(700,700,150,150)
+    ellipse(800,800,125,125)
+    ellipse(900,900,100,100)
+
+    ellipse(900,100,100,100)
+    ellipse(800,200,125,125)
+    ellipse(700,300,150,150)
+    ellipse(600,400,175,175)
+    ellipse(400,600,175,175)
+    ellipse(300,700,150,150)
+    ellipse(200,800,125,125)
+    ellipse(100,900,100,100)
+    }
