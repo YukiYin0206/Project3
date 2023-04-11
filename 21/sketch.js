@@ -1,4 +1,4 @@
-//Reference video tutorials from Youtube and Bilibili
+//Reference video tutorials from Bilibili
 let light=true
 let col
 let fr
