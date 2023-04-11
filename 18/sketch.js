@@ -1,4 +1,4 @@
-//Reference video tutorials from Youtube and Bilibili
+//Reference video tutorials from Bilibili
 let points=[]
 
 function setup(){
