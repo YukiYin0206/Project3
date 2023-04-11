@@ -14,5 +14,5 @@ function draw(){
   }
 
 function mousePressed(){
-  saveCanvas('sketch05','png')
+  saveCanvas('sketch5','png')
   }
