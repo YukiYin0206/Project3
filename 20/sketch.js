@@ -1,4 +1,4 @@
-//Reference video tutorials from Youtube and Bilibili
+//Reference video tutorials from Bilibili
 function setup(){
   createCanvas(1000,1000,WEBGL)
   }
